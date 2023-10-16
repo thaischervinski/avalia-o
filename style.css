@@ -17,3 +17,20 @@ img{
     margin: 30px;
     margin-left: 130px;
 }
+.cabecalho{
+    background-color:rgb(204, 0, 255);
+    display: flex;
+}
+.logocabecalho{
+    width: 100px;
+}
+.lista_cabecalho{
+    display: flex;
+    margin-left: 100px;
+}
+.item_lista_cabecalho{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    padding-left: 30px;
+    list-style: none;
+}
